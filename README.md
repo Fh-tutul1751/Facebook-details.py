@@ -1,1 +1,1 @@
-# Facebook-details.py
+Scrapy is a powerful web scraping framework for Python. You can set up a Scrapy project to crawl Facebook profiles and extract data. Here’s a basic outline of how to create a Scrapy spider       # Facebook-details.py
